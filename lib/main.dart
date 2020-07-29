@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:memory_card_game/welcomepagewidget.dart';
+import 'package:memory_card_game/screens/welcomepagewidget.dart';
 
 void main()=>runApp(MemoryGame());
 
